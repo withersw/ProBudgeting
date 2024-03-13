@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395076282725",
+    "project_id": "pro-budgeting",
+    "storage_bucket": "pro-budgeting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395076282725:android:86fdb4dbb53080c2bd198c",
+        "android_client_info": {
+          "package_name": "invictus.it.solutions.probudgeting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-qgm4F8Wd85TvUVqnCvJftilYNGo4EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
